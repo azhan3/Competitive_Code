@@ -1,2 +1,2 @@
 # Competetive_Code
-All Coding questions I've Done
+Some Coding questions I've Done
