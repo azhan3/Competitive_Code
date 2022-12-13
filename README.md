@@ -39,9 +39,9 @@ Started in October 2021
 
 
 ## Resources
-https://dmoj.ca/
-https://codeforces.com/
-http://www.usaco.org/
-https://cp-algorithms.com/
+* https://dmoj.ca/
+* https://codeforces.com/
+* http://www.usaco.org/
+* https://cp-algorithms.com/
 
 
