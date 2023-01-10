@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+template <class T>
+using vec = vector<T>;
+
+#define FOR(i, s, e) for (ll i = (ll)s; i < (ll)e; i++)
+#define dbg(x) cerr << "ln" << __LINE__ << ": " << #x << " = " << x << endl
+
+template <class T>
+void print(const vector<T>&a) {
+    for (const auto & i : a) cout << i << " ";
+}
+
+void solve() {
+	ll n;
+	cin >> n;
+	vec<ll>a(n);
+	for (auto & i : a) cin >> i;
+	vector<ll>cnt(500001);
+	vector<ll>prob(n);
+	
+}
+int main() {
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  solve();
+  return 0;
+}
